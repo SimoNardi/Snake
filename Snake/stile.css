@@ -1,1 +1,17 @@
-ciao
+body{
+  background-color: #faff00;
+}
+table{
+  width: auto;
+  height: auto;
+  border: 5px solid #000000;
+  background-color: #31f600;
+}
+td, tr, th{
+  border: 1px solid #31f600;
+  width: auto;
+  height: auto;
+}
+h1, h5{
+  text-align: center;
+}
